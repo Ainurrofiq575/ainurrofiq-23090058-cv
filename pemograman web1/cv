@@ -1,0 +1,10 @@
+<html>
+    <head>
+    </head>
+    <body style="background-color: rgb(131, 0, 0);">
+        <hi style="color: rgb(251, 253, 249);"> Latihan Membuat HTML</hi>
+        <p style="color: aliceblue;"> Latihan membuat paragraf pertama </p>
+        <a href="https://www.google.com">google</a>
+        <img src="Gambar WhatsApp 2023-11-03 pukul 14.10.31_175f9779.jpg" alt="long pants" width="600" height="600">
+    </body>
+</html>
